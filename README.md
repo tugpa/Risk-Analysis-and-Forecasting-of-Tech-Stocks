@@ -33,7 +33,7 @@ The project is divided into two main Jupyter Notebooks:
 This notebook focuses on the analysis of individual stocks. It includes:
 * **Exploratory Data Analysis (EDA)** of historical stock data.
 * **Risk vs. Return analysis** for each of the Magnificent 7 stocks.
-* A **Monte Carlo simulation** to forecast the potential risk of loss for Google (GOOG) stock.
+* A **portfolio-level Monte Carlo simulation** that accounts for the covariances between the stocks, using **Cholesky decomposition** to model correlated asset paths.
 
 ### 2. `M7_optimization.ipynb`
 
