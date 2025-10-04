@@ -1,4 +1,4 @@
-# Risk Analysis and Forecasting of Tech Stocks
+# Risk Analysis and Simulating of Tech Stocks
 
 This project provides a comprehensive analysis of the "Magnificent 7" tech stocks: Apple (AAPL), Google (GOOG), Meta (META), Amazon (AMZN), Netflix (NFLX), NVIDIA (NVDA), and Tesla (TSLA). The analysis covers historical performance, risk-return profiles, portfolio optimization, and forecasting using Monte Carlo simulations.
 
